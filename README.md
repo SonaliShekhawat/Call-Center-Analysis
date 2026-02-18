@@ -61,4 +61,7 @@ Four main call categories identified:
 3. **Process Optimization**: Review Streaming and Payment support processes to implement self-service options and reduce call volume
 4. **Workload Balancing**: Monitor distribution to maintain service quality across all team members
 
-
+## Analysis Tools Used
+- **Power Query Editor**: Data validation, transformation, and cleaning
+- **Excel Functions**: Statistical analysis, pivot tables, and aggregations
+- **Excel Charts & Visualizations**: Dashboard creation and performance visualization
